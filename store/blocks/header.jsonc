@@ -22,13 +22,14 @@
       "verticalAlign": "center",
       "preventHorizontalStretch": true,
       "preventVerticalStretch": true,
-      "fullWidth": true
+      "fullWidth": true,
+      "blockClass": "headerDesktop"
     },
     "children": [
       "flex-layout.col#logo-desktop",
       "flex-layout.col#spacer",
       "search-bar",
-      "locale-switcher",
+      "flex-layout.col#spacer",
       "login",
       "minicart.v2"
     ]
@@ -47,9 +48,9 @@
   "logo": {
     "props": {
       "title": "Logo",
+      "url": "assets/vtex-logo.png",
       "href": "/",
-      "url": "https://brand.vtex.com/static/media/VTEX_pink_RGB.751a9fb5.svg",
-      "width": "80"
+      "width": "150"
     }
   },
   "header-layout.mobile": {
