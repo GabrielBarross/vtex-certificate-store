@@ -3,8 +3,7 @@
     "blocks": [
       "flex-layout.row#first",
       "flex-layout.row#slide1",
-      "flex-layout.row#slide2",
-      "footer-layout.desktop"
+      "flex-layout.row#slide2"
     ]
   },
 
