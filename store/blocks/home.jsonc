@@ -3,7 +3,8 @@
     "blocks": [
       "flex-layout.row#first",
       "flex-layout.row#slide1",
-      "flex-layout.row#slide2"
+      "flex-layout.row#slide2",
+      "footer-layout.desktop"
     ]
   },
 
@@ -112,7 +113,8 @@
     "children": [
       "modal-trigger#quickview",
       "product-summary-name",
-      "product-selling-price"
+      "product-selling-price",
+      "product-summary-buy-button"
     ]
   },
   "modal-trigger#quickview": {
